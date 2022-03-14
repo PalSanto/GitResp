@@ -1,1 +1,2 @@
 this is a test text
+this is a new master test text
